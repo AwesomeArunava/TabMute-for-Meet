@@ -32,7 +32,7 @@ Your feedback and contributions are highly appreciated. If you encounter any iss
 
 ## License
 
-TabMute for Meet is released under the [MIT License](https://github.com/AwesomeArunava/TabMute-for-Meet/blob/main/LICENSE). Please see the [LICENSE](https://github.com/AwesomeArunava/TabMute-for-Meet/blob/main/LICENSE) file for more details.
+TabMute for Meet is released under the [GNU General Public License v3.0](https://github.com/AwesomeArunava/TabMute-for-Meet/blob/main/LICENSE). Please see the [LICENSE](https://github.com/AwesomeArunava/TabMute-for-Meet/blob/main/LICENSE) file for more details.
 
 ---
 
