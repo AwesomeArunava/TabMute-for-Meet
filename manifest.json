@@ -1,0 +1,56 @@
+{
+    "manifest_version": 2,
+    "name": "TabMute-for-Meet",
+    "version": "1.0",
+  
+    "permissions": [
+      "tabs"
+    ],
+  
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+  
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        
+        "128": "micOn.png"
+      }
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*/*"],
+        "js": ["content.js"]
+      }
+    ],
+  
+    "icons": {
+      
+      "128": "micOn.png"
+    },
+  
+    "permissions": [
+      "declarativeContent",
+      "activeTab"
+    ],
+  
+    "page_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        
+        "128": "micOn.png"
+      }
+    },
+  
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    }
+  
+    
+    
+  }
+  
