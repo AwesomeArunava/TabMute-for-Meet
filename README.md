@@ -38,3 +38,6 @@ TabMute for Meet is released under the [GNU General Public License v3.0](https:/
 
 Download TabMute for Meet today and enjoy a seamless and distraction-free Google Meet experience. Say goodbye to accidental mic mishaps and hello to smooth, uninterrupted meetings!
 
+## Contributers
+
+[Abir Dey](https://github.com/alexthehawk2) [Arunava Debnath](https://github.com/AwesomeArunava)
